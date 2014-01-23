@@ -2,3 +2,4 @@
 2014-01-01T19:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2014-01-01T07:15:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2014-01-01T07:11:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2014-01-23T03:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
