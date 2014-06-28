@@ -11,3 +11,4 @@
 2014-04-12T01:04:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2014-06-22T03:43:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2014-06-25T22:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2014-06-28T06:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
