@@ -17,3 +17,4 @@
 2014-09-10T07:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2014-09-10T21:48:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2014-09-11T03:32:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2014-09-11T17:03:00 - Late-night bugfix on financial RL environment (pulp-runtime)
