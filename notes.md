@@ -21,3 +21,4 @@
 2014-09-11T03:52:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2014-10-17T07:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2014-10-17T17:35:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2014-10-17T19:38:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
