@@ -24,3 +24,4 @@
 2014-10-17T19:38:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2014-10-17T02:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2014-10-27T03:33:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2014-11-06T02:20:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
