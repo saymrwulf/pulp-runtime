@@ -27,3 +27,4 @@
 2014-11-06T02:20:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2014-11-06T03:40:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2014-11-06T01:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2014-11-06T05:48:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
