@@ -33,3 +33,4 @@
 2014-11-23T20:28:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2014-11-23T06:08:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2014-11-23T19:05:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2014-12-15T18:47:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
