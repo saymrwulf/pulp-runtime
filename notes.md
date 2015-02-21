@@ -43,3 +43,4 @@
 2015-02-17T01:50:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2015-02-17T06:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2015-02-17T07:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2015-02-21T18:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
