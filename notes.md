@@ -55,3 +55,4 @@
 2015-04-21T06:46:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2015-04-21T20:37:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2015-04-21T04:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2015-05-03T05:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
