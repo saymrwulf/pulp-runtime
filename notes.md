@@ -57,3 +57,4 @@
 2015-04-21T04:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2015-05-03T05:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2015-05-31T06:04:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2015-05-31T17:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
