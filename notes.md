@@ -60,3 +60,4 @@
 2015-05-31T17:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2015-09-15T04:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2015-09-15T22:27:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2015-09-15T02:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
