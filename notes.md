@@ -66,3 +66,4 @@
 2015-11-11T03:53:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2015-11-11T01:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2015-11-11T18:09:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2015-12-24T07:07:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
