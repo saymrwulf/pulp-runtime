@@ -70,3 +70,4 @@
 2016-01-06T06:04:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2016-01-25T23:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2016-01-25T04:05:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2016-01-25T00:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
