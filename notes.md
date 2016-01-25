@@ -69,3 +69,4 @@
 2015-12-24T07:07:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2016-01-06T06:04:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2016-01-25T23:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2016-01-25T04:05:00 - Late-night bugfix on financial RL environment (pulp-runtime)
