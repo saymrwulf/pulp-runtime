@@ -72,3 +72,4 @@
 2016-01-25T04:05:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2016-01-25T00:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2016-01-25T00:43:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2016-01-27T20:43:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
