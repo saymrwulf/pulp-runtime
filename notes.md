@@ -76,3 +76,4 @@
 2016-01-27T06:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2016-02-16T21:48:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2016-02-16T08:26:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2016-02-16T06:22:00 - Late-night bugfix on financial RL environment (pulp-runtime)
