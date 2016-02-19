@@ -80,3 +80,4 @@
 2016-02-19T17:58:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2016-02-19T06:14:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2016-02-19T18:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2016-02-19T22:00:00 - Implementing approach from a new paper read last night (pulp-runtime)
