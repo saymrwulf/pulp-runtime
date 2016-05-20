@@ -85,3 +85,4 @@
 2016-04-22T21:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2016-04-22T23:53:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2016-04-22T21:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
+2016-05-20T22:51:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
