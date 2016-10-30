@@ -98,3 +98,4 @@
 2016-10-10T05:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2016-10-30T21:05:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2016-10-30T08:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2016-10-30T03:52:00 - Implementing approach from a new paper read last night (pulp-runtime)
