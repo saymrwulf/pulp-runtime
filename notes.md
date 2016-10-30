@@ -96,3 +96,4 @@
 2016-09-08T05:52:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2016-10-10T01:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2016-10-10T05:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
+2016-10-30T21:05:00 - Implementing approach from a new paper read last night (pulp-runtime)
