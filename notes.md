@@ -105,3 +105,4 @@
 2017-01-09T06:18:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2017-01-09T20:48:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2017-01-09T07:34:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2017-02-23T17:42:00 - Implementing approach from a new paper read last night (pulp-runtime)
