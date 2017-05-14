@@ -121,3 +121,4 @@
 2017-04-27T17:00:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2017-04-27T00:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2017-04-27T22:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2017-05-14T17:41:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
