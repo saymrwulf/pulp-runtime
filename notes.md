@@ -125,3 +125,4 @@
 2017-06-05T08:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2017-06-05T17:32:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2017-06-14T19:58:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2017-06-14T23:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
