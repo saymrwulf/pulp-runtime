@@ -127,3 +127,4 @@
 2017-06-14T19:58:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2017-06-14T23:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2017-07-13T20:11:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2017-07-13T17:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
