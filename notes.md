@@ -136,3 +136,4 @@
 2017-09-12T05:49:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2017-09-12T05:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2018-02-23T04:12:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2018-02-23T05:32:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
