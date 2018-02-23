@@ -138,3 +138,4 @@
 2018-02-23T04:12:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2018-02-23T05:32:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2018-02-23T18:58:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2018-02-23T05:06:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
