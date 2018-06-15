@@ -151,3 +151,4 @@
 2018-06-11T17:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2018-06-11T01:00:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2018-06-15T23:05:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2018-06-15T23:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
