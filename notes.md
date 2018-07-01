@@ -155,3 +155,4 @@
 2018-06-21T23:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2018-07-01T17:04:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2018-07-01T02:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2018-07-01T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
