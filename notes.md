@@ -157,3 +157,4 @@
 2018-07-01T02:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2018-07-01T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2018-07-01T08:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2018-07-17T19:40:00 - Late-night bugfix on financial RL environment (pulp-runtime)
