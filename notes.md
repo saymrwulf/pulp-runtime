@@ -167,3 +167,4 @@
 2018-08-17T18:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2018-08-24T04:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2018-08-30T01:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2018-08-30T02:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
