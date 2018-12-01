@@ -179,3 +179,4 @@
 2018-11-30T17:11:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2018-12-01T21:48:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2018-12-01T08:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2018-12-01T17:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
