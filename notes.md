@@ -177,3 +177,4 @@
 2018-11-30T18:01:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2018-11-30T06:00:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2018-11-30T17:11:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2018-12-01T21:48:00 - Late-night bugfix on financial RL environment (pulp-runtime)
