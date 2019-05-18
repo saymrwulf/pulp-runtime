@@ -191,3 +191,4 @@
 2019-02-15T06:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-02-15T00:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2019-02-15T20:44:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2019-05-18T08:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
