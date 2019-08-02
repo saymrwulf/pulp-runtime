@@ -199,3 +199,4 @@
 2019-07-22T21:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-07-26T19:37:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2019-07-26T02:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2019-08-02T03:03:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
