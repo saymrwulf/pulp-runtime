@@ -201,3 +201,4 @@
 2019-07-26T02:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2019-08-02T03:03:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2019-08-02T23:03:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2019-08-02T17:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
