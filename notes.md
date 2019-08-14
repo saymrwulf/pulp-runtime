@@ -203,3 +203,4 @@
 2019-08-02T23:03:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2019-08-02T17:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2019-08-04T03:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2019-08-14T19:39:00 - Late-night bugfix on financial RL environment (pulp-runtime)
