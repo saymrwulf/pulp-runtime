@@ -212,3 +212,4 @@
 2019-08-22T22:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-09-19T20:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-09-24T23:31:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2019-09-24T18:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
