@@ -217,3 +217,4 @@
 2019-09-24T05:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2019-10-05T04:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-10-05T21:58:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2019-10-05T00:59:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
