@@ -215,3 +215,4 @@
 2019-09-24T18:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2019-09-24T03:02:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2019-09-24T05:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2019-10-05T04:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
