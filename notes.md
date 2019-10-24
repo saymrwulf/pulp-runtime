@@ -219,3 +219,4 @@
 2019-10-05T21:58:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2019-10-05T00:59:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2019-10-24T20:39:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2019-10-24T03:18:00 - Implementing approach from a new paper read last night (pulp-runtime)
