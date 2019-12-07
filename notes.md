@@ -225,3 +225,4 @@
 2019-11-28T18:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2019-11-29T23:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2019-11-29T05:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2019-12-07T01:46:00 - Implementing approach from a new paper read last night (pulp-runtime)
