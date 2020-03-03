@@ -230,3 +230,4 @@
 2019-12-19T18:44:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2019-12-19T04:30:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2019-12-19T08:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2020-03-03T06:02:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
