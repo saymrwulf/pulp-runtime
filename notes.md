@@ -234,3 +234,4 @@
 2020-03-03T06:35:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2020-03-03T21:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2020-04-12T18:01:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2020-04-12T17:24:00 - Implementing approach from a new paper read last night (pulp-runtime)
