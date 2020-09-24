@@ -237,3 +237,4 @@
 2020-04-12T17:24:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2020-04-19T00:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2020-09-24T01:50:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2020-09-24T19:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
