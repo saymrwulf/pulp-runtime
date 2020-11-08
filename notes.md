@@ -244,3 +244,4 @@
 2020-11-08T00:38:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2020-11-08T00:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2020-11-08T23:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2020-11-08T04:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
