@@ -243,3 +243,4 @@
 2020-10-22T01:14:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2020-11-08T00:38:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2020-11-08T00:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2020-11-08T23:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
