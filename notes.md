@@ -255,3 +255,4 @@
 2021-02-24T19:22:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2021-02-24T06:48:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2021-02-24T06:15:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2021-02-24T05:11:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
