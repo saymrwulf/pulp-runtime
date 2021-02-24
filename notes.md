@@ -253,3 +253,4 @@
 2021-01-10T18:14:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2021-01-10T03:01:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2021-02-24T19:22:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2021-02-24T06:48:00 - Late-night bugfix on financial RL environment (pulp-runtime)
