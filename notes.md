@@ -272,3 +272,4 @@
 2021-07-23T01:41:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2021-07-24T06:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2021-07-24T08:06:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2021-09-06T23:12:00 - Implementing approach from a new paper read last night (pulp-runtime)
