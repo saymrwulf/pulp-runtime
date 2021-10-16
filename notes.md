@@ -276,3 +276,4 @@
 2021-09-06T18:06:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2021-10-16T22:11:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2021-10-16T03:16:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2021-10-16T23:02:00 - Late-night bugfix on financial RL environment (pulp-runtime)
