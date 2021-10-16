@@ -274,3 +274,4 @@
 2021-07-24T08:06:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2021-09-06T23:12:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2021-09-06T18:06:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2021-10-16T22:11:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
