@@ -284,3 +284,4 @@
 2021-11-24T20:09:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2021-11-24T02:45:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2021-12-04T00:15:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2021-12-04T08:29:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
