@@ -292,3 +292,4 @@
 2022-01-20T21:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2022-01-22T01:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2022-01-22T21:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
+2022-01-22T21:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
