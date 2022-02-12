@@ -296,3 +296,4 @@
 2022-01-28T01:55:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2022-01-28T02:08:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2022-02-13T06:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
+2022-02-13T00:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
