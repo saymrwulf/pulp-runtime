@@ -301,3 +301,4 @@
 2022-07-16T03:01:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2022-08-20T17:52:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2022-08-20T02:00:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2022-09-07T03:21:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
