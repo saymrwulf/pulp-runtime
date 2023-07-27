@@ -336,3 +336,4 @@
 2023-06-26T07:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
 2023-06-26T21:01:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2023-07-27T02:01:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2023-07-27T03:12:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
