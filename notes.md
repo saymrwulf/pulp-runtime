@@ -341,3 +341,4 @@
 2023-07-27T20:57:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2023-08-12T03:23:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2023-08-12T17:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
+2023-08-21T06:58:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
