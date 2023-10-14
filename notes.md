@@ -346,3 +346,4 @@
 2023-08-25T08:06:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2023-10-14T05:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2023-10-14T06:04:00 - Implementing approach from a new paper read last night (pulp-runtime)
+2023-10-14T06:10:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
