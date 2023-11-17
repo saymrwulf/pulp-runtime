@@ -348,3 +348,4 @@
 2023-10-14T06:04:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2023-10-14T06:10:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2023-10-14T07:34:00 - Late-night bugfix on financial RL environment (pulp-runtime)
+2023-11-17T05:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
