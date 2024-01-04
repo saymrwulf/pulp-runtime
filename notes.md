@@ -360,3 +360,4 @@
 2024-03-12T00:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
 2024-03-12T17:38:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2024-01-03T20:56:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2024-01-04T05:08:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
