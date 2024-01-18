@@ -350,3 +350,4 @@
 2023-10-14T07:34:00 - Late-night bugfix on financial RL environment (pulp-runtime)
 2023-11-17T05:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2023-11-17T02:46:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2024-01-18T04:51:00 - Implementing approach from a new paper read last night (pulp-runtime)
