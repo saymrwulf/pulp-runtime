@@ -368,3 +368,4 @@
 2024-04-06T23:40:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2024-04-30T03:38:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
 2024-04-30T19:21:00 - Refactor for clarity, might break a few tests though (pulp-runtime)
+2024-04-30T20:27:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
