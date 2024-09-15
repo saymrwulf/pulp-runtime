@@ -377,3 +377,4 @@
 2024-07-28T03:37:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
 2024-07-28T20:37:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2024-07-28T03:08:00 - Quick fix, referencing a known issue from the official repo (pulp-runtime)
+2024-09-15T04:32:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
