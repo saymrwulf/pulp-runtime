@@ -380,3 +380,4 @@
 2024-09-15T04:32:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
 2024-10-08T17:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2024-10-08T08:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
+2024-11-02T19:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (pulp-runtime)
