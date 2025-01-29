@@ -390,3 +390,4 @@
 2024-12-15T06:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (pulp-runtime)
 2025-01-30T01:40:00 - Implementing approach from a new paper read last night (pulp-runtime)
 2025-01-30T05:24:00 - Minor doc updates: linking to article on quantization (pulp-runtime)
+2025-01-30T00:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (pulp-runtime)
